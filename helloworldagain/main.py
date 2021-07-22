@@ -1,3 +1,3 @@
-#number = int(input('Введите число: '))
-#result = number + 2
-#print(result)
+number = int(input('Введите число: '))
+result = number + 2
+print(result)
